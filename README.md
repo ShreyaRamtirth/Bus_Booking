@@ -39,25 +39,25 @@ customer, transactions.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-# Login Screen
+### Login Screen
 [![Login][login-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/1.jpg)
 
-# Registration Screen
+### Registration Screen
 [![Registration][registration-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/2.jpg)
 
-# Login
+### Login
 [![Login][login-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/3.jpg)
 
-# Customer Menu
+### Customer Menu
 [![Customer Dashboard][customer-dashboard-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/4.jpg)
 
-# Bus Booking
+### Bus Booking
 [![Bus Booking][busBooking-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/5.jpg)
 
-# Admin Menu
+### Admin Menu
 [![Admin Dashboard][admin-dashboard-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/6.jpg)
 
-# Buses Information
+### Buses Information
 [![Buses][buses-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/7.jpg)
 
 
@@ -68,7 +68,7 @@ customer, transactions.
 
 ### Built With
 
-* [![CORE_JAVA][JAVA]][Next-url]
+* [CORE_JAVA][JAVA]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
