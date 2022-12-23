@@ -119,13 +119,11 @@ Project Link: [https://github.com/ShreyaRamtirth/Bus_Booking.git](https://github
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[JAVA]: https://www.java.com/en/
+[JAVA]: https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png
 [login-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/1.jpg
 [registration-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/2.jpg
-[login-screenshot] : https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/3.jpg
-[customer-dashboard-screenshot] : https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/4.jpg
+[login-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/3.jpg
+[customer-dashboard-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/4.jpg
 [busBooking-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/5.jpg
 [admin-dashboard-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/6.jpg
 [buses-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/7.jpg
