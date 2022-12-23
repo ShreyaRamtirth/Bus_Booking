@@ -9,14 +9,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -27,10 +19,8 @@
 
   <p align="center">
     
-    This project explains about the Online Bus Ticket Booking. This project mainly 
-explains the various actions related to book ticket online by siting at anywhere.
-You can search for buses and available seats and tickets as well. You can also 
-search for a place where you want to go. 
+    The main objective of this project is to book bus ticket<br /> keep a record of bus, 
+customer, transactions. etc. 
   </p>
 </div>
 
@@ -61,7 +51,14 @@ search for a place where you want to go.
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Login][login-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/1.jpg)
+[![Registration][registration-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/2.jpg)
+[![Login][login-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/3.jpg)
+[![Customer Dashboard][customer-dashboard-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/4.jpg)
+[![Bus Booking][busBooking-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/5.jpg)
+[![Admin Dashboard][admin-dashboard-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/6.jpg)
+[![Buses][buses-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/7.jpg)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
