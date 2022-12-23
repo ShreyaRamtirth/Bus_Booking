@@ -39,13 +39,25 @@ customer, transactions.
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+# Login Screen
 [![Login][login-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/1.jpg)
+
+# Registration Screen
 [![Registration][registration-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/2.jpg)
+
+# Login
 [![Login][login-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/3.jpg)
+
+# Customer Menu
 [![Customer Dashboard][customer-dashboard-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/4.jpg)
+
+# Bus Booking
 [![Bus Booking][busBooking-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/5.jpg)
+
+# Admin Menu
 [![Admin Dashboard][admin-dashboard-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/6.jpg)
+
+# Buses Information
 [![Buses][buses-screenshot]](https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/7.jpg)
 
 
@@ -119,7 +131,7 @@ Project Link: [https://github.com/ShreyaRamtirth/Bus_Booking.git](https://github
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[JAVA]: https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png
+[JAVA]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNx20PHLxKaDlz35mW_neWjCUoco_IqBYKRlNy6tM&s
 [login-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/1.jpg
 [registration-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/2.jpg
 [login-screenshot]: https://raw.githubusercontent.com/ShreyaRamtirth/Bus_Booking/main/images/3.jpg
