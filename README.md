@@ -68,7 +68,7 @@ customer, transactions.
 
 ### Built With
 
-* [CORE_JAVA][JAVA]]
+* [![CORE_JAVA][JAVA]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
